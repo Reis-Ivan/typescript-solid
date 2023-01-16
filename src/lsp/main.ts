@@ -1,6 +1,6 @@
 /**
- Open/closed principle
- Entidades devem estar abertas para extensão, mas fechadas para modificação
+Liskov substitution principle
+
  */
 import { Messaging } from './services/messaging';
 import { Order } from './classes/order';
